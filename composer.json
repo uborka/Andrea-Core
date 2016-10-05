@@ -1,0 +1,24 @@
+{
+    "name": "andrea/core",
+    "version": "3.0.0",
+    "version_normalized": "3.0.0.0",
+    "description": "Andre@ Core",
+    "keywords": ["PHP","Andrea","Andre@"],
+    "homepage": "http://andrea.ubipage.hu",
+    "type": "library",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Adam Csuka",
+            "homepage": "http://www.ubipage.hu"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Andrea\\Core\\": "src"
+        }
+    }
+}
