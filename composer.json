@@ -7,6 +7,17 @@
     "homepage": "http://andrea.ubipage.hu",
     "type": "library",
     "license": "LGPL",
+    "source": {
+        "type": "git",
+        "url": "https://github.com/uborka/Andrea-Core.git",
+        "reference": "f4a3ec179ca49bf9f34aebb9ebf0f5b2e5fc0ac8"
+    },
+    "dist": {
+        "type": "zip",
+        "url": "https://github.com/uborka/Andrea-Core/archive/master.zip",
+        "reference": "f4a3ec179ca49bf9f34aebb9ebf0f5b2e5fc0ac8",
+        "shasum": ""
+    },
     "authors": [
         {
             "name": "Adam Csuka",
